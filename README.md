@@ -38,6 +38,6 @@ The code was written in Python 3 and requires the following packages:
 The visualizations were created using Tableau and can be viewed in the `cyclistic_dashboard.twb` file.
 
 ## Author
-This project was created by Gordon as part of the Data Analyst track in the Google Data Analytics Professional Certificate program on Coursera. The dataset used in the analysis was provided by Google.
+This project was created by Gordon Lam as part of the Data Analyst track in the Google Data Analytics Professional Certificate program on Coursera. The dataset used in the analysis was provided by Google.
 
 Feel free to contact me at gordonlamch@gmail.com for any questions or comments.
